@@ -1,0 +1,74 @@
+header{
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(230, 250, 255, 0.151)), url(images/coffee5.png);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;
+}
+/* SNS 영역 */
+#sns-links {
+    background-image: linear-gradient(rgba(1, 13, 17, 0.795), rgba(3, 31, 39, 0.233)), url(images/coffee12.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+body {
+    font-family: 'Noto Serif KR', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+.gugi-font {
+    font-family: 'Noto Serif KR', serif;
+}
+
+
+/* 네비게이션 영역 */
+.nav-link:hover,
+.nav-link.active {
+    color: #00AAB9 !important;
+}
+
+
+/* 서비스 섹션 */
+.card-hover:hover {
+    background-color: #00AAB9;
+}
+
+
+
+/* 뉴스 섹션 */
+#cafeone {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(images/coffee9.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#cafetwo {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(images/coffee10.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#cafethree {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(images/coffee6.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+/* 메거진 섹션 */
+#magazineone {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(images/coffeemagazine1-01.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#magazinetwo {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(images/coffeemagazine2-01.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#magazinethree {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(images/coffeemagazine3-01.jpg);
+    background-size: cover;
+    background-position: center;
+}
